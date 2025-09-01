@@ -1,4 +1,4 @@
-#### **Effect of Smoking on Disease Occurrence – Chi-Square Test Project**
+#### **Effect of different factors on Disease Occurrence – Chi-Square Test Project**
 
 
 
